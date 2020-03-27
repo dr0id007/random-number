@@ -1,0 +1,27 @@
+a,
+a:hover {
+    text-decoration: none;
+    color: inherit;
+    font-weight: lighter !important;
+}
+
+.home {
+    margin-top: 10%;
+    /* background-color: #f0f0f3; */
+    height: 50vh;
+    /* box-shadow: inset -10px -10px 30px 0 #ffffff, 5px 5px 10px 0 #aeaec0; */
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+}
+
+.text-title {
+    padding-top: 70px;
+    font-weight: lighter !important;
+}
+
+
+.mar-top {
+    margin-top: 3%;
+}
