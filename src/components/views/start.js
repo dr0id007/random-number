@@ -69,6 +69,15 @@ const Start = () => {
           Start Again <i className="fas fa-redo"></i>
         </button>
       </div>
+      <div className="illustrate">
+        <img
+          height="500"
+          width="400"
+          className="img-responsive"
+          src={require("../../asstes/undraw_gaming_6oy3.svg")}
+          alt="..."
+        />
+      </div>
     </div>
   );
 };
