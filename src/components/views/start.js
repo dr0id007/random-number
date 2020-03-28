@@ -74,7 +74,7 @@ const Start = () => {
           height="500"
           width="400"
           className="img-responsive"
-          src={require("../../asstes/undraw_gaming_6oy3.svg")}
+          src={require("../../assets/undraw_gaming_6oy3.svg")}
           alt="..."
         />
       </div>
